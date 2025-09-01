@@ -1,0 +1,10 @@
+gradio
+langchain
+langchain_huggingface
+langchain_community
+qdrant-client
+transformers
+pydantic
+sentence-transformers
+langchain-docling
+rank_bm25
